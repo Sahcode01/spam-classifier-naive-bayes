@@ -1,9 +1,3 @@
 Streamlit
 Pandas
 Scikit-learn
-
-To install Streamlit - Use the command: 
-    python -m pip install streamlit
-    
-To run the Streamlit app - Use the command
-    streamlit run filename.py 
